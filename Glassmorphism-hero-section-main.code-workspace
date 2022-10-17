@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Contact-Form-HTML-CSS-master/Contact-Form-HTML-CSS-master/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
